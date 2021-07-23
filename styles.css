@@ -1,0 +1,47 @@
+.HeaderTop{
+  background-color:#476072;
+
+}
+.rightImg{
+  height:80px;
+  width:80px;
+  padding:5px;
+  position: absolute;
+  right:100px;
+}
+.leftImg{
+  height:80px;
+  width:80px;
+  padding:5px;
+}
+.gif{
+  width:100%;
+  height:700px;
+}
+.features1{
+  background-color:#F8E2CF;
+  width:100%;
+  margin-right: 0px;
+  margin-left:0px;
+
+}
+#features {
+  padding:  3% 0;
+  background-color: #fff;
+
+
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
